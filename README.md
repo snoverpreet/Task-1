@@ -1,5 +1,6 @@
 # Task-1
-Scan Your Local Network for Open Ports
+
+**Scan Your Local Network for Open Ports**
 
 First=> Find IP Address for local network that I run ip addr command in kali linux
 Second=> Now I run sudo nmap 192.168.1.0/24 
